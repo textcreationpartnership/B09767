@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preparatory sheet, occasioned by the author's being ask'd at sea, shall all that have never heard of Jesus Christ, be eternally danmed?</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09767</idno><idno type="EEBO-CITATION">69648856</idno>
+  <idno type="VID">185028</idno>
+  <idno type="EEBO-PROQUEST">2248537537</idno>
+  
+            <idno type="STC">Wing P3218C</idno>
+            <idno type="STC">ESTC W30658</idno>
+            <idno type="OCLC">69648856</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185028)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2884:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Preparatory sheet, occasioned by the author's being ask'd at sea, shall all that have never heard of Jesus Christ, be eternally danmed?</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption titile.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Future punishment --  Early works to 1800.</term>
+               <term type="topical_term">Salvation --  Christianity --  Early works to 1800.</term>
+               <term type="topical_term">Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:185028:1"/>
+            <head>A PREPARATORY SHEET, occasioned by the Author's being ask'd at Sea, <hi>SHALL ALL that have never heard of JESUS CHRIST, be</hi> ETERNALLY DAMNED?</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>TERNALLY DAMNED,</hi> ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> words, that he to whom they wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> propounded, in remote Parts, hath ever since been so dissatisfied a<g ref="char:EOLhyphen"/>bout, that he is thence moved to take in hand so grand an En<g ref="char:EOLhyphen"/>quiry, [as, <hi>Whether DAMNATION, or the Torment of the Damned or of Hell it self, shall be so eternal, as never to have any End?</hi> or <hi>Whether that Damnation shall be only Eviternal and have an End, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter the Duration of a certain Number of limited Ages, suppose a thou<g ref="char:EOLunhyphen"/>sand thousand Years, or longer?</hi>
+            </p>
+            <p>And the best Expedient that is known in this controverted Case, may be (af<g ref="char:EOLunhyphen"/>ter solemn seeking the LORD about it) a diligent consulting with, and a di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>considering the holy Scriptures of Truth, by the teaching of the holy Spirit, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cording to the proper significacy of the Words and Expressions, of the <hi>Hebrew</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the old, and in the <hi>Greek</hi> of the New Testament.</p>
+            <p>Not to insist now on <hi>Catacrima, Crima, Crisis,</hi> or <hi>Apoleia,</hi> which three latt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Words are sometimes translated <hi>Judgment,</hi> and sometimes <hi>Damnation,</hi> we ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here only take notice, that the word Englished <hi>Damnation,</hi> so far as doth concer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the present Question, and is commonly intended by Translators and Annotators, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that which doth denote a <hi>Judicial,</hi> both sentencing of guilty Transgressors (suc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as live and dy in unpardoned Sin) unto, and also the executing upon them thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deserved Destruction, or Torment in <hi>Hell,</hi> commonly accounted <hi>Eternal.</hi>
+            </p>
+            <p>This <hi>Damnation</hi> hath many Expressions both in Hebrew and Greek Scriptures whereby it is set out, which distinctly to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xamine, and much to enlarge upon, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not here my present Purpose, who would at present confine my <hi>now first offere<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Apprehensions, within one Sheet, reserving the rest to another Discourse, if Call, and also Encourragement (as needed) be given hereunto.</p>
+            <p>The Word, and meaning of the word, <hi>Eternal,</hi> is that, which in this short Pa<g ref="char:EOLunhyphen"/>per my Thoughts and Meditations are more taken up about, and confined unto As for the common Acceptation of it, relating to <hi>Damnation,</hi> or the Torment o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Damned in <hi>Hell,</hi> or in the Lake of Fire, which is the second Death, as if <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> should never have an end, and as if it did signify such a Perpetuity as is endles<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:185028:2"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his now dissatisfying me, gives me an occasion and motive at the present to search very diligently, whether in those Scriptures, where it is most ordinarily used, it doth not, in the intendment of the holy Spirit, hold forth rather Eviternity, or Age-wise, if I may so speak, or a Plurality of Ages, in the space of the different Durations of the old first Creation, and new second Creation, in Correspondency with the Generations of both, and the like; all which, after a definite Continuance, of a certain Number of limited Ages, shall have an End put to it. And this, in this inquiring Age, is mainly the Subject-matter queried here.</p>
+            <p>Let me therefore, as one, who is made, both serious in this Enquiry, and wil<g ref="char:EOLhyphen"/>ling either to receive or give Satisfaction, as the LORD shall graciously send forth his Light and Truth, with more cleerness, not at all to favour any the least Sin, much less those exceeding odious intollerable Sins of Atheism, and Infidelity, in any present Disobedience against Christ and his Gospel, much less for any Curiosity, mere Scepticisms or Contentiousness, but with a quite contrary Design of Practical Improvement thereof, for the promoting of the great Ends of that which is true and sound Christianity, and good and pure Religion, with that now seasonable Love, that now waxeth cold, if I may meet with any winning Invitations, Let me, I say, for Intents and Purposes thus approved, be allowed the modest Liber<g ref="char:EOLhyphen"/>ty, of a tractable Disciple of Jesus Christ, to argue for an <hi>Eviternity of Damna<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion only,</hi> till I can be farther convinced of the contrary, by any better instructed faithful Friend, under Christ, who may be otherwise helpful to me herein. This Eviternity only I thus argue for.</p>
+            <p>
+               <hi>Arg.</hi> 1. From the Significancy of <hi>Gnolam,</hi> and <hi>Gnolomim</hi> in the Hebrew, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Aiωn, Aiωnes,</hi> and <hi>Aiωnios</hi> in the Greek, as they relate to mere Creatures.</p>
+            <p n="1">1. <hi>Gnolam</hi> and <hi>Gnolamim, a parte ante,</hi> or in what foregoes, do in divers Scrip<g ref="char:EOLhyphen"/>tures denote the foregoing Ages and Generations; hence the Latine <hi>Olim,</hi> from <hi>Gnolam,</hi> where it is taken, of past time; so <hi>Deut.</hi> 32.7. <hi>Remember the days of Gnolam, (seculi,</hi> i. e <hi>olim, praeteritorum)</hi> of old, consider the Years of Generation and Ge<g ref="char:EOLhyphen"/>neration, of the Age past, <hi>Psal.</hi> 77.5, 11. &amp; 119.52. <hi>Isa.</hi> 42.9. so <hi>Joshua</hi> 24.2. in passing over the River your Fathers have dwelt <hi>Megnolam a seculo,</hi> i. e. <hi>olim,</hi> from of old, <hi>Eccles.</hi> 1.10. that hath already been <hi>Begnolamim, aliquot retro Seculis,</hi> in some Ages past.</p>
+            <p n="2">2. Also <hi>a parte post,</hi> in what <hi>Gnolam</hi> and <hi>Gnolamim</hi> are consequent towards, and wherein they have respect to a future Duration, <hi>Gen.</hi> 17.7. a Covenant <hi>Gnolam</hi> of the Age, where it doth respect <hi>Abrahams Seed</hi> in their future Generations, and <hi>ver.</hi> 8, about their Possessions (where it is not everlasting, but <hi>Gnolam,</hi> of the Age, <hi>Exod.</hi> 21.6. He shall serve thee <hi>Legnolam in Seculum,</hi> not <hi>for ever,</hi> but unto the Age, <hi>i. e.</hi> unto the Years of <hi>Jubile.</hi>
+            </p>
+            <p n="3">3. Sometimes it takes in both, <hi>a parte ante,</hi> and respects Duration past, and <hi>a parte post</hi> too, and respects Duration to come, as <hi>Psal.</hi> 145.13. Where Christ's Kingdom is said to be a Kingdom <hi>Col-Gnolamim, omnium Seculorum,</hi> of all or every of the Ages, his Dominations <hi>in all Generation and Generations,</hi> Isa. 45.17. a Sal<g ref="char:EOLhyphen"/>vation (not everlasting,) but <hi>Gnolamim</hi> of the Ages; and ye shall not be ashamed,
+<pb facs="tcp:185028:2"/> word, <hi>Heb.</hi> 1.2. that Christ made the Ages, <hi>fecit secula,</hi> or that the Father m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Ages by Christ. Hence the <hi>Rabbins</hi> speak, amongst their Traditions, of a three<g ref="char:EOLunhyphen"/>fold <hi>Gnolamim,</hi> the upper, middle, and lower <hi>Gnolam,</hi> all whith three <hi>Gnolamim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> they apply, to the Worlds created in time, and may be understood of the Ages of the World, as made in their course of Duration, and the Forms thereof, by Christ Jesus, 1 <hi>Tim.</hi> 1.17. Christ may be there called the Kingdom <hi>tωn Aiωnωn,</hi> of the Ages, but what refers to <hi>Aiωn</hi> may fall in under the next Particular, where,</p>
+            <p n="4">4. More particularly of the Greek <hi>Aiωn, Aiωnes,</hi> and <hi>Aiωnios,</hi> and Arguments, or Reasons, why they in Scripture mostly, or therein most ordinarily and usually sig<g ref="char:EOLhyphen"/>nifie not Eternity, but rather Eviternity, or Age-wise. The Reasons hereof follow.</p>
+            <p n="1">1. Because these Words are used in Scripture not to express God's absolute Eternity, such as 1 <hi>Tim.</hi> 6.16. but even in relation to us his Decree is but <hi>(Gr.) tωn Aiωnωn,</hi> Eph. 3.11. that is, of the Ages, and not eternal.</p>
+            <p n="2">2. Because as here the Predetermination of the Ages is made in Christ so (not the <hi>Cosms</hi> or <hi>Worlds,</hi>) but <hi>Aiωnes,</hi> or <hi>the Ages</hi> are made by Christ, <hi>Heb.</hi> 1.2. and as these Texts are of Ages past, or <hi>a parte ante,</hi> so is also <hi>Col.</hi> 1.26. where <hi>Aiωnes</hi> also thus signifies, and is englished, the Ages.</p>
+            <p n="3">3. Because <hi>Aiωnios</hi> also being made an Epithite to <hi>Chronos</hi> plurally, <hi>Rom.</hi> 16.25. 2 <hi>Tim.</hi> 1.9. <hi>Tit.</hi> 1.2. is yet more evidently made not to signify, <hi>a parte ante,</hi> any other than what is temporal, for so it is also used with a Greek <hi>pro,</hi> i. e. <hi>before.</hi>
+            </p>
+            <p n="4">4. Because <hi>as</hi> it is an Epithete to <hi>Cronos, time</hi> plu. of which <hi>Cronos</hi> the Angel swears that it shall be no more, <hi>Rev.</hi> 10.6, 7. so <hi>a parte post,</hi> it also can't ever signify eternal, because made an Epithete to hope, <hi>Tit.</hi> 1.2. beginning, which shall fail and cease, as 1 <hi>Cor.</hi> 13.13. so that the Ages and Generations coupled together, <hi>Col.</hi> 1.26. seem much of the same Duration; Christ in the Original being called <hi>the Father of the Age,</hi> Isa. 9.6. and as <hi>Aiωn</hi> plurally is used according to the Greek, in <hi>Jude</hi> 25 with an <hi>all,</hi> so are <hi>Generations</hi> also used with an <hi>all, Eph.</hi> 3.21. where, according to the Greek, it is word for word, <hi>Ʋnto all the Generations of the Age of the Ages.</hi> Thus will not Christ's last of Generations be the last of his Ages?</p>
+            <p n="5">5. Because this <hi>a parte post,</hi> what the Translators englished <hi>the end of the World,</hi> or <hi>the ends of the World,</hi> Mat. 13.29, 40. ch. 24.3. ch. 28. v. 20. Heb. 9.26. 1 Cor. 10.11. it is only <hi>Aiωn,</hi> whether singularly or plurally.</p>
+            <p n="6">6. Because <hi>Gnolam</hi> and <hi>Aiωn</hi> would be plainly cleared, to signify not that which is <hi>eternal</hi> or <hi>endless,</hi> but age-wise, were they not so much concealed, when Englished, of old, for ever, from the beginning, from the beginning of the World, for ever<g ref="char:EOLhyphen"/>more, <hi>for ever and ever,</hi> and with a Negative, <hi>never, World,</hi> both singularly and plurally, and so used plurally is <hi>Aiωn</hi> also englished <hi>World, Course, World withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> end,</hi> and the like.</p>
+            <p>
+               <hi>Arg.</hi> 2. I argue Damnation not to be only Eternal, but Age-wise, from the very nature and being of God himself, and of his glorious Excellencies, and singular Attributes, and from God the Father his chusing, appointing, and covenanting
+<pb facs="tcp:185028:3"/> with his Son, finally to save all Men, and consequently the whole World, when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rist shall become a Propitiation for the Sins of the whole World, 2 <hi>Joh.</hi> 2.2. with <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh.</hi> 3.17. And thus according to my Understanding, the said Excellencies and At<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibutes seem best-reconciled this way, and thus do they offer matter of sweetest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>editation to all Mankind, God in Christ being <hi>Philanthrωpos, Tit.</hi> 3.4. <hi>Prov.</hi> 8.31. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well as <hi>Theanthrωpos,</hi> God-man, or <hi>Emanuel,</hi> God with us.</p>
+            <p>But how many hard Thoughts have risen in the Minds of many, yea of some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aring God, about the common Opinion, <hi>that by far the most shall everlastingly be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmented, for a short whiles temporary sinning?</hi> and how many have been vexed and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erplexed in their Minds and Spirits, with that dreadful and amazing Question, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hether it be better or more eligible for rational Creatures, not to have any being at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, and to be utterly annihilated, rather than to be endlesly miserable, and to be tormented <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ever in Hell?</hi>
+            </p>
+            <p>And let it be further minded, notwithstanding God's just Judgment upon <hi>and a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainst fallen Angels,</hi> yet he hath given them much Relaxation, and Liberty for thou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds of Years, here in this World, <hi>Gen.</hi> 3.15. with <hi>Mat.</hi> 12 43, 44, 45. <hi>Mat.</hi> 8.30, 31. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uk.</hi> 8.30, 31. Whereas God is gracious, long suffering and great in Goodness; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd how doth he testify it, <hi>Act.</hi> 14.17. and how exemplarily doth he reach out <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd extend Good to all, <hi>Mat.</hi> 5.45. thereby to encourage us▪ to love our very <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemies! For thus his tender Mercies are over all his Works, <hi>and all his Works <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all praise him,</hi> Psal. 145.8, 9, 10. and his Mercy triumpheth over Judgment, <hi>Jam.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13. <hi>Psal.</hi> 103.8, 9, 10. and therefore he judgeth no Man, but hath committed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Judgment to the Son, <hi>Joh.</hi> 5.22. But this may appear farther under the next <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgument.</p>
+            <p>
+               <hi>Arg.</hi> 3. I argue from Christ's two natuures in one Subsistence, and consequently <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m his Office of Mediatorship, or Priest, Prophet, and King, and accordingly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m his two States, both of Humiliation and Exaltation; There being Scriptures <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry express concerning his dying for all actually, as <hi>Joh.</hi> 3.16, 17. 2 <hi>Cor.</hi> 5.14, 15. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Tim.</hi> 2.4, 5; 6. <hi>Heb.</hi> 2.9, 10. <hi>Psal.</hi> 6.8, 10. he being the Head of every Man, 1 <hi>Cor.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.3. and this being plainly spoken of the Son, of his being manifest, on purpose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> destroy the Works of the Devil, 1 <hi>Joh.</hi> 3.8. with <hi>Heb.</hi> 2.14. and thus also is it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike testified of his <hi>being sent into the World, not to condemn the World, but that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orld through Him might be saved,</hi> Joh. 3.17. and therefore he claims it accordingly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d saith, <hi>All Souls are mine,</hi> Ezek. 18.4. how willing may he be therefore, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st or last all may come to the Knowledg of the Truth, and Repentance, and that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey may thus actually in effect, all be s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved, 1 <hi>Tim.</hi> 2.4. 2 <hi>Pet.</hi> 3.9. also Christ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid to be <hi>the Saviour of all Men,</hi> 1 Tim. 4.10. and he thus giving himself, is said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be <hi>a Ransom for all,</hi> 2 Pet. 3.9. as also <hi>he is the Propitiation for the Sins of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ole World,</hi> 1 Joh. 2.2.</p>
+            <p>And thus it may be herewith also farther supposed that Christ did actually feel <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d undergo, for all fallen Mankind, all that Death, all those Deaths in the several <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds of them, which were threatned against Sin and Sinners, even the whole <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l full Wrath of God due to Sin, even the very Torments, as some apprehend,
+<pb facs="tcp:185028:3"/> of Hell; or else, that however his Soul was sorrowful unto Death, wherein he might and did undergoe the sorrows of Death and Hell, as <hi>Gen.</hi> 2.17. &amp; 3.15. with <hi>Psal.</hi> 18.5, 6. <hi>Mat.</hi> 26.38. <hi>Mark</hi> 14.34. <hi>Luke</hi> 22.44. <hi>Act.</hi> 2.31. <hi>Gal.</hi> 3.10, 13. 1 <hi>Cor.</hi> 15.22. 2 <hi>Sam.</hi> 22.5, 6. and <hi>Psal.</hi> 19.4, 5.</p>
+            <p>Neither is the Everlastingness of the Torments to be suffered in <hi>Hell,</hi> as some suppose, or in the Lake of Fire, any part of the Penalty threatned by way of Sa<g ref="char:EOLhyphen"/>tisfaction to infinite Justice. For so, God's infinite Justice could never be fully sa<g ref="char:EOLhyphen"/>tisfied, no not by the endless Torments of the Damned, if they were to be endless; for more and more Justice would still call for further Satisfaction, which meer Man can never fully satisfy, by all his Sufferings; but rather, that full Satisfaction was an Effect of somewhat annext to infinite Justice, the Punishment it self in the whole of it, being not endurable by any meer guilty Creature; and thus the long-lastingness of the Torment in <hi>Hell</hi> hath no place, where that which is full Punishment for Sin, is actually born, and fully satisfied, as that was which was performed in and by Christ, so that henceforth on this account no Man therefore was or now is, or shall be tormented in <hi>Hell,</hi> for want of a Re<g ref="char:EOLhyphen"/>medy, but only for rejecting the one only Remedy, <hi>Heb.</hi> 2.3. Such things which may he well proved and cleared by Scripture, may help to a right Determination in the Case. For Christ's Kingdom is that which is age-wise, 2 <hi>Pet.</hi> 1.11. and yet not of this World, <hi>John</hi> 18.36. and must at last have an end, 1 <hi>Cor.</hi> 15.24. and yet then first bring forth Judgment unto Victo<g ref="char:EOLhyphen"/>ry, in the moment when that which is perfect shall come, <hi>Matth.</hi> 12.20. with 1 <hi>Cor.</hi> 13.10. after all its encrease, <hi>Isa.</hi> 9.7. that corruption shall thus in a moment, at last, put on incorruption, 1 <hi>Cor.</hi> 15.51; 52, <hi>&amp;c.</hi> and the Triumph be then ac<g ref="char:EOLhyphen"/>cordingly, <hi>ver.</hi> 54, 55, 56. with <hi>ver.</hi> 57. and thus shall Christ reign, till he make all his Enemies his Foot-stool, <hi>ver.</hi> 24, 26. he exercising, doing, or executing all his victorious Judgment, <hi>John</hi> 5.22, 27. in humane nature, and to the especial ho<g ref="char:EOLhyphen"/>nour of his Saints in this World, <hi>Psal.</hi> 149. last; that when God's Judgments <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be thus in the Earth, the Inhabitants (not of the Earth only, but) of the World may learn Righteousness, <hi>Isa.</hi> 26.9. and thus Christ be glorified and admi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in his most believing Saints, 2 <hi>Thess.</hi> 1.10. to the benefit of all Crea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures every where, as <hi>Rev.</hi> 5.10, 14.</p>
+            <p>
+               <hi>Arg.</hi> 4. I argue the like hereto, from the never-failing all-efficiency, which in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he irresistible and effectual application of Christ's Universal Redemption, is most manifestly the very Office and proper Work of the Holy Spirit. For this Holy Spirit, who is one with the Father and Son in his testimony, 1 <hi>John</hi> 5.7. being <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iωnian,</hi> or <hi>agewise,</hi> as well as Christ's Kingdom is <hi>aiωnian, Heb.</hi> 9.14. with 2 <hi>Pet.</hi> 1.11. How is the Spirit alike judicial also with the Son in its changing and renew<g ref="char:EOLhyphen"/>ing Work, on all, how diversly soever, <hi>Isa.</hi> 4.4. with 1 <hi>Cor.</hi> 15.51. and with <hi>Ezek.</hi> 17.24. and being already given to this very purpose, in way of Earnest, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd first Fruits, 2 <hi>Cor.</hi> 1.22. <hi>Rom.</hi> 8.23. and why? but in order to the residue of the Spirit, that it may bring in the residue of Men, after <hi>Israel</hi>'s Restitution, <hi>Mal.</hi> 2.15. <hi>Rom.</hi> 11.32, 15. with <hi>Acts</hi> 15.16, 17. in a transforming way changing,
+<pb facs="tcp:185028:4"/> all by degrees, in their Light, Life, and Liberty, 2 <hi>Cor.</hi> 3.17, 18. with <hi>Rom.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Prov.</hi> 4.18. 1 <hi>Cor.</hi> 13.10. till that all shall at such a perfect day have the benefit thereof accordingly, in seeing by this revealing Spirit, all that the Father hath, to become the Glory of the Son, who is the Age-wise Lord, <hi>Heb.</hi> 11.40. 1 <hi>Cor.</hi> 15.51. with <hi>Chap.</hi> 2.9, 10, 11. <hi>Isa.</hi> 40.5. <hi>Joh.</hi> 16.14, 15. 1 <hi>Joh</hi> 3.2. and how universal, on all flesh, shall this effusion of the Spirit be, <hi>Joel</hi> 2.28. and that to an answerable universal effect of the Spirit, in and on all Flesh, <hi>Isa.</hi> 40.5. and that after fore-going Judgment and Tribulation, <hi>Joel</hi> 2.28. with <hi>v.</hi> 18, &amp;c. and with <hi>Mat.</hi> 24.22. (Gr.) with <hi>Isa.</hi> 40. <hi>v.</hi> 7, 6, 5. <hi>Hab.</hi> 3.2.</p>
+            <p>
+               <hi>Arg.</hi> 5. This I might largely argue also (if I had space here) from the capacity and expectation of the humane Nature and Rational being in all Mankind, in the which is a hope that is <hi>aiωnian</hi> or <hi>age-wise, Tit.</hi> 1. <hi>v.</hi> 2. beg. alike with such things, as <hi>Heb.</hi> 6.2. <hi>Mark</hi> 3.29, &amp;c. which seems to good purpose, to reach the very Crea<g ref="char:EOLhyphen"/>ture it self indefinitely, without exception, and that with, and from the very now first suffering Saints, <hi>Rom.</hi> 8.20, 21, 22, 23, 24, 25. and therefore the Gospel to be Go<g ref="char:EOLhyphen"/>spel so universally preacht, as <hi>Mat.</hi> 28.18, 19. with <hi>Mark</hi> 16.15, 16. in all the World, to every Creature, as with a regard had therein to every Creature, and that in order to put us therefore upon an abounding in the Work of the Lord, as 1 <hi>Cor.</hi> 15.58. having our Senses exercised so well, to discern between Good and Evil, in such soundness of Principles, as may conduce to the going on to Perfection, <hi>Heb.</hi> 5. lat. with <hi>Chap.</hi> 6. beg. and therefore the Gospel of Christ's Kingdom sometimes is hin<g ref="char:EOLhyphen"/>ted at as alike <hi>aiωnian</hi> with his Kingdom it self, as <hi>Rev.</hi> 14.6. <hi>Matth.</hi> 24.13, 14. with 2 <hi>Pet.</hi> 1.11. and is not in vain so called <hi>aiωnian.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 6. I argue it from the New Covenant, about the New Creation that is to be established, thorow and by means of, and upon the taking away of the first old Covenant, <hi>Jer.</hi> 31.31, &amp;c. <hi>Heb.</hi> 8.8, &amp;c. <hi>Heb.</hi> 10.9. and that unto the making, not only of a new Heaven and Ear h according to Promise, 2 <hi>Pet.</hi> 3.13. <hi>Rev.</hi> 21.1. but to the making of all Things new, <hi>v.</hi> 5. So that God causing so great a shaking, as well in Heaven as in Earth, most remarkably: Why is there so great a shaking, [thereby to remove that which is shaken] but in order to establish that which can<g ref="char:EOLhyphen"/>not be shaken, that that may remain in the room and stead of that, which being shaken, is to give place, and to be no more, and all this for encouragement to serve God acceptably and aright, <hi>Heb.</hi> 12.26, 27, 28, 29. And therefore it is all spo<g ref="char:EOLhyphen"/>ken of, as assuredly as if already done, how that with respect had to the New Creature in Christ, all old Things are done away, and all Things become New, 2 <hi>Cor.</hi> 5.17, 18.</p>
+            <p>Therefore if the first old decayed World, and this corrupt Creation-state of things shall be but near an hundred such Generations, as <hi>Psal.</hi> 90, <hi>v.</hi> 10. or accord<g ref="char:EOLhyphen"/>ing to the seven days of its Creation-week, <hi>Gen.</hi> 1st, 2d, 3d, Chapters, with 2 <hi>Pet.</hi> 5.8. Yet there are a thousand Generations mentioned <hi>Psal.</hi> 105.8. 1 <hi>Chron.</hi> 16.15. <hi>Deut.</hi> 7.9. with <hi>Exod.</hi> 20.6. and do they not hint out the Son's special Generation, pro<g ref="char:EOLhyphen"/>per to the New Creation and Covenant, of which his Kingdom shall in particular
+<pb n="7" facs="tcp:185028:4"/> especially consist? And which of these thousand Generations shall be less than a thousand Years? For did not <hi>Methuselah,</hi> in a World destroyed, live near a thou<g ref="char:EOLhyphen"/>sand Years? which may have something of Type in it, there being to be a Season, wherein a hundred Years shall be but an Infants Age, <hi>Isa.</hi> 65.20. And at the latter end of this World, when the Beast and False Prophet shall suffer, shall not the suffering Saints reign then a thousand Years, <hi>Rev.</hi> 19. lat. with <hi>Rev.</hi> 20.4? And is not all this something to intimate, that Christ's Age-wise special Kingdom, in Type and Antitype both, shall be more than a thousand thousand Years? And in all this time, and at the end of it, such as at the last Change, shall not Judgment, for and in the behalf of Incorruption, be indeed victorious: as 1 <hi>Cor.</hi> 15.51, &amp;c. with <hi>Matth.</hi> 12.20. that there may be a deliverance out of the hands of all Enemies, <hi>Luke</hi> 1.74. and there be then also no more curse, <hi>Rev.</hi> 22.3. but Sin it self, or Sins be made an end of, <hi>Dan.</hi> 9.24. and so the very inferior Creature also be no more made Subject to the vanity which it is at present groaning under, <hi>Rom.</hi> 8.21, 22?</p>
+            <p>
+               <hi>Arg.</hi> 7. Lastly, I argue it from the final destruction of Death, the Gulph, Hell it self, and the very Abyss or Deep, which is become the special place of the great Leviathan, spoken of as the Dragon in the Sea. For what though gradual Death was threatned, <hi>Gen.</hi> 2.17. <hi>(Heb.)</hi> yet this shall not pre<g ref="char:EOLhyphen"/>vent Death, the last Enemy, 1 <hi>Cor.</hi> 15.26. but this second Death at last, after all the time of the first Death and <hi>Hell,</hi> before the last Judgment unaccomplished and unfixt, shall become Death to the very last change of all Creatures, 1 <hi>Cor.</hi> 15.51. with <hi>Rom.</hi> 8.21. even till then a Death of Deaths, a Hell-death, the Death of Hell, made up of the two special Ingredients; the one Ingredient of and from that of the former first Death, and of and from the other this of <hi>Hell,</hi> as it was before unfixed, as if then formerly it had been in the Air, and Sea, or Abysse, ra<g ref="char:EOLhyphen"/>ther than in <hi>Gehenna,</hi> or the Lake of Fire and Brimstone on Earth, in that which is in respect of the Holy City and its Appurtenances, called the <hi>without,</hi> Rev. 22.15. And how is this place of outward and utter darkness decyphered or deno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, in its Type or Antitype, as before, but as 1 <hi>Cor.</hi> 15.26. <hi>Rev.</hi> 1.18, &amp; 2.11. &amp; 20.1, 10, 14. &amp; 12.8. <hi>Ezek.</hi> 28.10. &amp; 32.21.24-32. &amp; 18.23. &amp; 33.11. with 1 <hi>Joh.</hi> 5.16, 17. and the like.</p>
+            <p>But yet shall it not however be a Death, as great and long a Death and as long as it is, and shall endure, that shall be final and destroyed? And therefore shall there not be a season, when the Sea it self shall be no more, and that as <hi>Rev.</hi> 21. <hi>v.</hi> 1 end, as an earnest of a full issue, to what results from thence, which is therefore the more considerable, according to <hi>Isa.</hi> 27.1, <hi>&amp;c.</hi> with the end of the former Chap<g ref="char:EOLhyphen"/>ter, and with <hi>Isa.</hi> 57.20, 21. and so with <hi>Rev.</hi> 13.1. &amp; 11.7. &amp; 17.8. &amp; 20.1, 3. &amp; 9.1, 2, 11. <hi>Luke</hi> 8.31. <hi>Rom.</hi> 10.7. <hi>Deut.</hi> 30.12. and the like. And therefore shall not all this be that which Christ hath not in vain triumphed against, <hi>Hos.</hi> 13.14. speaking then so long ago to this purpose; From the hand of <hi>Sheol</hi> will I free them, from <hi>Death</hi> I, saith the LORD Christ, (who by consanguinity and pro<g ref="char:EOLhyphen"/>pinquity, have a Right, Authority, and Power thereunto) will redeem them: I will be thy killing Pestilence, O Death: I will be thy exterminating Excision, O <hi>Sheol,</hi>
+               <pb n="8" facs="tcp:185028:5"/> (that is, O thou gulf &amp; <hi>Hell!</hi>) Repentance (as to this thus determination <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f all the Ages, and all the Generations thereof, in victory against Hell-death) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be hidden from mine eyes. Neither doth the New Testament disagree from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his, in 1 <hi>Cor.</hi> 15.54, 55, 56, with 57. Where the Apostle doth triumph, first, in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eneral, against Death, <hi>ver.</hi> 54 end, and then more especially make a more par<g ref="char:EOLhyphen"/>ticular Triumph; 1. Against Death's great sharpness, as quite enervated, <hi>ver.</hi> 55 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eginning; and then, 2ly. against <hi>Hades, v.</hi> 55, latter end, which doth more pro<g ref="char:EOLhyphen"/>perly signify <hi>Hell</hi> than the <hi>Grave,</hi> as <hi>Psal.</hi> 16.10. For who would not conceive the Soul here in this of the <hi>Psalmist,</hi> to be distinct from the Flesh, in the former verse; and if then the Flesh may be understood of the Body in the Grave, where bodily corruption is usually suffered, how can the Soul be understood but of the incor<g ref="char:EOLhyphen"/>ruptible p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt of Christ's Humanity, even of his inward man elsewhere? For, did not his Soul continue elsewhere separate from his Body all the time his Flesh or Body was in the Grave? Surely his Flesh, or Body and Soul, may not both of them be thought to have their being and abode, after his Death till his Resurrection, in the same place, till the very hour of his Resurrection, or the third day. But this will ap<g ref="char:EOLhyphen"/>pear more evidently from the following 56th verse, where Sin, as the cause mostly and principally of <hi>Hell's</hi> Victory, is therefore most directly triumphed against, and that as to its Sting, which is not without torment, whereas the Flesh or Body hath no torment at all, or sensible suffering in the Grave. Nay, there also in that same verse, the Law it self, that of Nature, and of the first Covenant broken, yea and of both Covenants not continued in, or of what ever is Law, and is transgressed, and become any way the strength of Sin, is here explicated, and that also under this head of Triumph, which is the Triumph that is here made against all the greatest and most powerful Enemies of the Creature, and therefore against <hi>Hell it self,</hi> as an Enemy, that all will confess doth last longer than the first Death, and also than the Grave; and that is that which doth take in all Deads, otherwise than the Grave doth. Thus therefore is that which is concluded on in v. 57. that which is <hi>to nikos,</hi> or <hi>cat'exochen,</hi> that which is the Victory, as the whole and full Victory through our Lord Jesus; only my Preparatory Sheet will now admit no more but the following</p>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <head>APPENDIX.</head>
+            <p>THis is but a small taste to begin with, and peradventure <hi>opposition</hi> may follow it; but if so, the hope, under God in Christ, is, That a few chosen may stand by seasonable Truth, and by a favourer of it, sometime under more Soul-distress, whence still a sufferer in Body, by Wind and otherwise, and from whom to the value of hundreds, or nearer thousands of pounds may have slipt, with<g ref="char:EOLhyphen"/>out the discouraging him from his Studies in Scripture-Prophecies, whereon this Sheet is founded, and which may therefore be willingly attended with progress, as there shall be occasion, if he may be thereunto encouraged, and his Family-Concernments may not be so over-look'd, that enforcing Necessities should there<g ref="char:EOLhyphen"/>unto disenable him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
